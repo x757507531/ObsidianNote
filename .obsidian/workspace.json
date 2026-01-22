@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "4ada27bdb39b7a3d",
+            "id": "ce622c980f06df03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "可可爱饼干 分析报告.md",
+                "file": "当20个AI同时给你打工：Gas Town是什么.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "可可爱饼干 分析报告"
+              "title": "当20个AI同时给你打工：Gas Town是什么"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "可可爱饼干 分析报告.md",
+                "file": "当20个AI同时给你打工：Gas Town是什么.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "可可爱饼干 分析报告 的反向链接列表"
+              "title": "当20个AI同时给你打工：Gas Town是什么 的反向链接列表"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "可可爱饼干 分析报告.md",
+                "file": "当20个AI同时给你打工：Gas Town是什么.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "可可爱饼干 分析报告 的出链列表"
+              "title": "当20个AI同时给你打工：Gas Town是什么 的出链列表"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "可可爱饼干 分析报告.md",
+                "file": "当20个AI同时给你打工：Gas Town是什么.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "可可爱饼干 分析报告 的大纲"
+              "title": "当20个AI同时给你打工：Gas Town是什么 的大纲"
             }
           },
           {
@@ -210,17 +210,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ada27bdb39b7a3d",
+  "active": "ce622c980f06df03",
   "lastOpenFiles": [
+    "tiktok 轮播图选题.md",
+    "当20个AI同时给你打工：Gas Town是什么.md",
     "It's enough for us 🥲.webm",
+    "可可爱饼干 分析报告.md",
     "It's enough for us 🥲.f251.webm",
     "It's enough for us 🥲.f251.webm.part",
     "It's enough for us 🥲.f248.webm",
     "It's enough for us 🥲.f248.webm.part",
     "test.md",
-    "tiktok 轮播图选题.md",
     "MCN公司 KOL 账号分析提示词.md",
-    "可可爱饼干 分析报告.md",
     "未命名.txt"
   ]
 }
